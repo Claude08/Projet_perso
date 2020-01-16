@@ -1,0 +1,16 @@
+#maDiv{
+	border: 2px solid black;
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+#button{
+    border-radius: 5px;
+}
+.text{
+	color: red;
+}
+.bordure{
+	border: 5px outset black;
+}
